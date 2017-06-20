@@ -1,5 +1,5 @@
 _Note:_
-This one is special because it provides a unique flow to get someone set up with Monero from start to finish. Please feel free to make changes to the flow I have provided by either addings, taking away, or changing categories. It'd be best if you make a new file called using-yourhandle.md to differentiate it from mine. Hope to see what people have worked up.
+This one is special because it provides a unique flow to get someone set up with Monero from start to finish. Please feel free to make changes to the flow I have provided by either adding, taking away, or changing categories. It'd be best if you make a new file called using-yourhandle.md to differentiate it from mine. Hope to see what people have worked up.
 
 # Using Monero
 
@@ -7,7 +7,7 @@ Using Monero is easy, and there are a variety of tools and guides available to h
 
 # Start Here
 
-Monero is a cryptocurrency that allows anonymous transactions around the world. Monero stands on pillars of security, privacy, and decentralization, and the community and developers are committed to protecting these values. We suggest learning more about how Monero works and reading the Ideals page. The source code for Monero and all our official clients are available for public view and discussion on Github.
+Monero is a cryptocurrency that allows anonymous transactions around the world. Monero stands three pillars; Security, Privacy, and Decentralization. The community and developers are committed to protecting these values. We suggest learning more about how Monero works and reading the Ideals page. The source code for Monero and all our official clients are available for public view and discussion on [Github](https://github.com/monero-project).
 
 - Ideals
 
@@ -17,7 +17,7 @@ Monero is a cryptocurrency that allows anonymous transactions around the world. 
 
 # Support
 
-Before reading further, it is important to know that there is a large, supportive community that can assist if your run into trouble. If you have questions about anything, no matter how large or small, please see our Hangouts page to find places to ask these questions.
+Before reading further, it is important to know that there is a large supportive community that can assist if your run into trouble. If you have questions about anything, no matter how large or small, please see our Hangouts page to find places to ask these questions.
 
 -	Hangouts
 
